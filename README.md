@@ -20,8 +20,7 @@
 
 ### 📌 Featured Projects  
 🔹 [Java Spring Boot PayApp App](https://github.com/CodeByRubenInamdar/payapp)  
-🔹 [PHP + MySQL Task Manager](https://github.com/CodeByRubenInamdar/your-php-project)  
-🔹 [React To-Do App](https://github.com/CodeByRubenInamdar/your-react-project)
+🔹 [Java Spring Boot PayApp App](https://github.com/CodeByRubenInamdar/SaiVijayArt-s-E-commerce-web-site)  
 
 ---
 
