@@ -1,8 +1,3 @@
-<!-- Header Banner GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="800" alt="Welcome Banner">
-</p>
-
 # 👋 Hi, I'm Ruben Inamdar  
 💻 **Full Stack Java Developer | Open-Source Enthusiast**  
 
