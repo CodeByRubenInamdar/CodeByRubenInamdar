@@ -25,14 +25,15 @@
 
 ## 📂 Featured Projects  
 
+### 💳 [Payment-App](https://github.com/CodeByRubenInamdar/PayApp)  
+📌 A **full-stack payment application** using Spring Boot and Bootstrap.  
+
 ### 🛒 [Shopping_Cart](https://github.com/CodeByRubenInamdar/SaiVijayArt-s-E-commerce-web-site)  
 📌 **Spring Boot + Thymeleaf + MySQL** based shopping cart application.  
 
 ### 🏏 [CricketInsight](https://github.com/CodeByRubenInamdar/CricketInsight)  
 📌 A **Spring Boot + MySQL** project for cricket data management.  
 
-### 💳 [Payment-App](https://github.com/CodeByRubenInamdar/PayApp)  
-📌 A **full-stack payment application** using Spring Boot and Bootstrap.  
 
 ---
 
