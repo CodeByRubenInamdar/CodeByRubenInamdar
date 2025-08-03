@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Ruben Inamdar  
 💻 **Full Stack Java Developer | Open-Source Enthusiast**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=CodeByRubenInamdar&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=CodeByRubenInamdar&color=blue) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben%20Inamdar-blue?logo=linkedin)](https://www.linkedin.com/in/ruben-inamdar)  
 [![GitHub](https://img.shields.io/badge/GitHub-CodeByRubenInamdar-black?logo=github)](https://github.com/CodeByRubenInamdar)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ruben--inamdar--portfolio.netlify.app-orange?logo=internet-explorer)](https://ruben-inamdar-portfolio.netlify.app/)
 
 ---
 
@@ -33,7 +34,6 @@
 
 ### 🏏 [CricketInsight](https://github.com/CodeByRubenInamdar/CricketInsight)  
 📌 A **Spring Boot + MySQL** project for cricket data management.  
-
 
 ---
 
@@ -78,6 +78,11 @@
 ## 📫 Connect With Me  
 📧 **rubeninamdar86@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ruben-inamdar) | [GitHub](https://github.com/CodeByRubenInamdar)
+
+---
+
+## 🌐 Portfolio  
+🔗 **Check out my portfolio:** [ruben-inamdar-portfolio.netlify.app](https://ruben-inamdar-portfolio.netlify.app)
 
 ---
 
